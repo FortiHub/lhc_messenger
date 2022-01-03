@@ -12,6 +12,9 @@ dev_dependencies:
     
 E retirei a linha -> test: ^1.15.4 
 
+Depois deu um pub get para ajustar!
+
+
 
 [![Apple store](https://livehelperchat.com/design/defaulttheme/images/apps/apple.svg)](https://apps.apple.com/us/app/id1530399116) [![Google Play](https://livehelperchat.com/design/defaulttheme/images/apps/google-play.png?v2)](https://play.google.com/store/apps/details?id=com.livehelperchat.chat)
 
